@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ebad-urRehman
+- 👋 Aslam u Alaikum, I’m @Ebad-urRehman
 - 👀 I’m interested in Progrmming, Artificial Intelligence, Data Analysis, Machine Learning
-- 🌱 I’m currently learning Python, Data Structures, Assembly language
+- 🌱 I’m currently learning Data science, Machine learning, web development
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me
 - You can find usefull projects below
