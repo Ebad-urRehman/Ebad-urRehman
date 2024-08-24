@@ -5,7 +5,11 @@
 - 📫 How to reach me
 - You can find usefull projects below
 
+# Languages
 <figure><img src="https://wakatime.com/share/@ebad/f8ae943e-35fa-4f6a-8206-8f5eef461b76.svg" style="width:200px height:200px"></img></figure>
+
+## Time Coding
+<figure><img src="https://wakatime.com/share/@ebad/76c02e97-4eaf-4974-825a-0451a4ed344c.svg"></img></figure>
 <!---
 Ebad-urRehman/Ebad-urRehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
