@@ -14,6 +14,12 @@
 
 
 <figure><img src="https://wakatime.com/share/@ebad/76c02e97-4eaf-4974-825a-0451a4ed344c.svg"></img></figure>
+
+
+<figure><embed src="https://wakatime.com/share/@ebad/d8d3438b-98e2-4b0d-9dd3-e44454840fac.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@ebad/a7862387-d0cc-4bf3-b127-d25a4e86320c.svg"></embed></figure>
+
 <!---
 Ebad-urRehman/Ebad-urRehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
