@@ -1,12 +1,12 @@
 ### *BSCS Student & NLP Researcher*
 
 - 👋 Aslam u Alaikum, I’m Ibad Ur Rehman
-- 🗒️ **Student of:** in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and AI Agents.
-- 📝 **Research Focus:** Arabic NLP, RAG, AI Ethics, Neuro-Symbolic AI.
+- 🎓 **Student of:** in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and AI Agents.
+- 🔬 **Research Focus:** Arabic NLP, RAG, AI Ethics, Neuro-Symbolic AI.
 
 💼 **Experience:**
 
-- **📋 NLP Researcher (MAHED Shared Task)** | *Remote*
+- **🔬 NLP Researcher (MAHED Shared Task)** | *Remote*
   - Developed a system for Hope and Hate speech detection.
   - Fine-tuned **ArabicBERT** and implemented custom text preprocessing pipelines for low-resource Arabic multi-dialect data provided.
   - Achieved acceptance for the system description paper at ArabicNLP 2025.
