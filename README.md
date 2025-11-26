@@ -1,5 +1,5 @@
 - 👋 Aslam u Alaikum, I’m Ibad Ur Rehman
-- 🗒️ I’m a student and researcher in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and Agents.
+- 🗒️ I’m a student and researcher in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and AI Agents.
 - 🌱 I’m currently learning Arabic NLP, RAG, AI Ethics, Neuro-Symbolic AI. 
 - 📋 Experience in Data Preprocessing, Transformers, RAG, Arabic NLP Hope and Hate Detection shared task, and Data analysis.
 - 📊 Worked as a Junior Data Analyst at [Databitz](databitz.ai) for 2-3 months.
