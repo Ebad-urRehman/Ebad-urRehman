@@ -5,10 +5,25 @@
 - 📝 **Research Focus:** Arabic NLP, RAG, AI Ethics, Neuro-Symbolic AI.
 
 💼 **Experience:**
-- Research Experience Paper in MAHED Shared Task [AyahVerse at MAHED Shared Task: Fine-Tuning ArabicBERT with Preprocessing for Hope and Hate Detection](https://aclanthology.org/2025.arabicnlp-sharedtasks.92/)
-- 📊 Junior Data Analyst at [Databitz](https://databitz.ai) for 2-3 months.
-- 📋 Other Experiences : Data processing, Transformers, RAG, and Data analysis.
 
+- **📋 NLP Researcher (MAHED Shared Task)** | *Remote*
+  - Developed a system for Hope and Hate speech detection.
+  - Fine-tuned **ArabicBERT** and implemented custom text preprocessing pipelines for low-resource Arabic multi-dialect data provided.
+  - Achieved acceptance for the system description paper at ArabicNLP 2025.
+
+- **📊 Junior Data Analyst** | [Databitz](https://databitz.ai)
+  - Conducted data processing and analysis to derive actionable insights from real world datasets.
+  - Additional Role : Performed specialized **literature reviews on Eye-Tracking (ET) technology** to strategize marketing campaigns, focusing on neuro-marketing principles (Fixations, Saccades, Pupil Dilation).
+
+### 📝 Publications
+<a href="https://aclanthology.org/people/ibad-ur-rehman-rashid/">
+  <img src="https://img.shields.io/badge/ACL%20Anthology-Research%20Profile-BD1C2B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="ACL Anthology" />
+</a>
+
+
+* **[AyahVerse at MAHED Shared Task: Fine-Tuning ArabicBERT with Preprocessing for Hope and Hate Detection](https://aclanthology.org/2025.arabicnlp-sharedtasks.92/)**
+  *Proceedings of the ArabicNLP 2025 Shared Task (ACL Anthology)*
+  
 💞️ **Collaborate:**
 -  I’m looking to collaborate on My FYP "AyahVerse: A Qur’anic Scientific and Numerical Insights Explorer Using Transformers, Agentic AI, and Reasoning".
 
