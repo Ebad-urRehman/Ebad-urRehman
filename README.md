@@ -1,10 +1,18 @@
+### *BSCS Student & NLP Researcher*
+
 - 👋 Aslam u Alaikum, I’m Ibad Ur Rehman
-- 🗒️ I’m a student and researcher in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and AI Agents.
-- 🌱 I’m currently learning Arabic NLP, RAG, AI Ethics, Neuro-Symbolic AI. 
-- 📋 Experience in Data Preprocessing, Transformers, RAG, Arabic NLP Hope and Hate Detection shared task, and Data analysis.
-- 📊 Worked as a Junior Data Analyst at [Databitz](https://databitz.ai) for 2-3 months.
-- 💞️ I’m looking to collaborate on My FYP "AyahVerse: A Qur’anic Scientific and Numerical Insights Explorer Using Transformers, Agentic AI, and Reasoning".
-- 📫 How to reach me
+- 🗒️ **Student of:** in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and AI Agents.
+- 📝 **Research Focus:** Arabic NLP, RAG, AI Ethics, Neuro-Symbolic AI.
+
+💼 **Experience:**
+- Research Experience Paper in MAHED Shared Task [AyahVerse at MAHED Shared Task: Fine-Tuning ArabicBERT with Preprocessing for Hope and Hate Detection](https://aclanthology.org/2025.arabicnlp-sharedtasks.92/)
+- 📊 Junior Data Analyst at [Databitz](https://databitz.ai) for 2-3 months.
+- 📋 Other Experiences : Data processing, Transformers, RAG, and Data analysis.
+
+💞️ **Collaborate:**
+-  I’m looking to collaborate on My FYP "AyahVerse: A Qur’anic Scientific and Numerical Insights Explorer Using Transformers, Agentic AI, and Reasoning".
+
+📫 How to reach me
   - [Email](ibadkps@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/ebadur-rehman/)
     
