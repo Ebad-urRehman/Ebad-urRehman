@@ -1,9 +1,12 @@
-- 👋 Aslam u Alaikum, I’m @Ebad-urRehman
-- 👀 I’m interested in Progrmming, Artificial Intelligence, Data Analysis, Machine Learning
+- 👋 Aslam u Alaikum, I’m Ibad Ur Rehman
+- 👀 I’m a student and researcher in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and Agents.
 - 🌱 I’m currently learning Data science, Machine learning, web development
-- 💞️ I’m looking to collaborate on nothing for now
+- 💞️ I’m looking to collaborate on My FYP "AyahVerse: A Qur’anic Scientific and Numerical Insights Explorer Using Transformers, Agentic AI, and Reasoning".
 - 📫 How to reach me
-- You can find usefull projects below
+  - [Email](ibadkps@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/ebadur-rehman/)
+    
+- You can find usefull projects, and research papers below
 
 # Languages
 <figure><img src="https://wakatime.com/share/@ebad/f8ae943e-35fa-4f6a-8206-8f5eef461b76.svg" style="width:200px height:200px"></img></figure>
