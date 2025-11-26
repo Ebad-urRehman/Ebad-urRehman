@@ -1,6 +1,8 @@
 - 👋 Aslam u Alaikum, I’m Ibad Ur Rehman
-- 👀 I’m a student and researcher in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and Agents.
-- 🌱 I’m currently learning Data science, Machine learning, web development
+- 🗒️ I’m a student and researcher in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and Agents.
+- 🌱 I’m currently learning Arabic NLP, RAG, AI Ethics, Neuro-Symbolic AI. 
+- 📋 Experience in Data Preprocessing, Transformers, RAG, Arabic NLP Hope and Hate Detection shared task, and Data analysis.
+- 📊 Worked as a Junior Data Analyst at [Databitz](databitz.ai) for 2-3 months.
 - 💞️ I’m looking to collaborate on My FYP "AyahVerse: A Qur’anic Scientific and Numerical Insights Explorer Using Transformers, Agentic AI, and Reasoning".
 - 📫 How to reach me
   - [Email](ibadkps@gmail.com)
