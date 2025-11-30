@@ -29,7 +29,7 @@
 
 📫 How to reach me
   - LinkedIn : [/in/ebadur-rehman/](https://www.linkedin.com/in/ebadur-rehman/)
-  - Mail : [ibadkps@gmail.com](https://ibadkps@gmail.com)
+  - Mail : [ibadkps@gmail.com](https://ibad.rashid.research@gmail.com)
 
     
 
