@@ -1,7 +1,7 @@
 ### *BSCS Student & NLP Researcher*
 
 - 👋 Aslam u Alaikum, I’m Ibad Ur Rehman
-- 🎓 **Student of:** in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and AI Agents.
+- 🎓 **Student** in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and AI Agents.
 - 🔬 **Research Focus:** Arabic NLP, RAG, AI Ethics, Neuro-Symbolic AI.
 
 💼 **Experience:**
