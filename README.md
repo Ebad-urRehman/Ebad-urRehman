@@ -21,8 +21,20 @@
 </a>
 
 
+* **[QurSci-Onto: A Hierarchical Ontology and Dataset for Scientific Exegesis in the Quran](https://www.researchgate.net/publication/403065494_QurSci-Onto_A_Hierarchical_Ontology_and_Dataset_for_Scientific_Exegesis_in_the_Quran)**
+  *Proceedings of the AbjadNLP 2026 (ACL Anthology)*
+
+  * **[AyahVerse at AbjadGenEval Shared Task: Monolingual Precision and Cross-Lingual Analysis in Perso-Arabic AI Detection](https://www.researchgate.net/publication/403068414_AyahVerse_at_AbjadGenEval_Shared_Task_Monolingual_Precision_and_Cross-Lingual_Analysis_in_Perso-Arabic_AI_Detection)**
+  *Proceedings of the AbjadNLP 2026 Shared Task (ACL Anthology)*
+
 * **[AyahVerse at MAHED Shared Task: Fine-Tuning ArabicBERT with Preprocessing for Hope and Hate Detection](https://aclanthology.org/2025.arabicnlp-sharedtasks.92/)**
   *Proceedings of the ArabicNLP 2025 Shared Task (ACL Anthology)*
+
+* **[AyahVerse at NakbaArchiveClassifier Shared Task: Architectural Trade-offs and Decision Calibration for Humanitarian Image Classification](https://www.researchgate.net/publication/405220350_AyahVerse_at_NakbaArchiveClassifier_Shared_Task_Architectural_Trade-offs_and_Decision_Calibration_for_Humanitarian_Image_Classification)**
+  *Proceedings of the NakbaNLP 2026 Shared Task (ACL Anthology)*
+
+  
+
   
 💞️ **Collaborate:**
 -  I’m looking to collaborate on My FYP "AyahVerse: A Qur’anic Scientific and Numerical Insights Explorer Using Transformers, Agentic AI, and Reasoning".
