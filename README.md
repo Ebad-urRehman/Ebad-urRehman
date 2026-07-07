@@ -29,8 +29,7 @@
 * **[AyahVerse at NakbaArchiveClassifier Shared Task: Architectural Trade-offs and Decision Calibration for Humanitarian Image Classification](https://www.researchgate.net/publication/405220350_AyahVerse_at_NakbaArchiveClassifier_Shared_Task_Architectural_Trade-offs_and_Decision_Calibration_for_Humanitarian_Image_Classification)**
   *Proceedings of the NakbaNLP 2026 Shared Task (ACL Anthology)*
 
-  
-
+Latest : [AyahVerse](https://ayahverse.streamlit.app/) Scientific Tafsir research console. Deployed for testing only.
   
 💞️ **Collaborate:**
 -  I’m looking to collaborate on My FYP "AyahVerse: A Qur’anic Scientific and Numerical Insights Explorer Using Transformers, Agentic AI, and Reasoning".
