@@ -1,8 +1,8 @@
-### *BSCS Student & NLP Researcher*
+### *BSCS Graduate & NLP Researcher*
 
 - 👋 Aslam u Alaikum, I’m Ibad Ur Rehman
-- 🎓 **Student** in Natural Language Processing, Arabic NLP, Data Analysis, AI for social good, AI using RAG and AI Agents.
-- 🔬 **Research Focus:** Arabic NLP, RAG, AI Ethics, Neuro-Symbolic AI.
+- 🎓 **Researcher** in Computational Linguistics, Arabic NLP, Ontologies/KGs, AI for social good, AI using RAG and AI Agents.
+- 🔬 **Research Focus:** Arabic NLP, Hallucination mitigation, RAG, Knowledge Graph Representations, AI Ethics, Neuro-Symbolic AI.
 
 💼 **Experience:**
 
@@ -31,9 +31,6 @@
 
 Latest : [AyahVerse](https://ayahverse.streamlit.app/) Scientific Tafsir research console. Deployed for testing only.
   
-💞️ **Collaborate:**
--  I’m looking to collaborate on My FYP "AyahVerse: A Qur’anic Scientific and Numerical Insights Explorer Using Transformers, Agentic AI, and Reasoning".
-
 📫 How to reach me
   - LinkedIn : [/in/ebadur-rehman/](https://www.linkedin.com/in/ebadur-rehman/)
   - Mail : [ibadkps@gmail.com](https://ibad.rashid.research@gmail.com)
